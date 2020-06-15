@@ -2,8 +2,6 @@
 
 ## Quiz: Logging
 
-## Quiz Question
-
 ### What are some ways this log message could be improved? Select all that apply.
 
 ### ERROR - Failed to compute product similarity. I made sure to fix the error from October so not sure why this would occur again. 
